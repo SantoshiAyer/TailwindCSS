@@ -7,13 +7,12 @@ Responsive Design: Built-in breakpoints (sm, md, lg, xl).
 Customizable: Fully configurable through tailwind.config.js.
 Optimized for Production: Automatically removes unused CSS using PurgeCSS.
 No Pre-Built Components: Full control over design without preset UI elements.
-Advantages:
 
+##Advantages:
 Faster development with reusable classes.
 Consistent design system.
 Lightweight CSS in production.
 Fully customizable.
-Disadvantages:
-
+##Disadvantages:
 HTML can become verbose.
 Requires learning utility class names.
